@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "stack": "cpp",
+        "complex": "cpp",
+        "valarray": "cpp",
+        "initializer_list": "cpp",
+        "ios": "cpp"
     }
 }
