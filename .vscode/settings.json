@@ -9,6 +9,9 @@
         "complex": "cpp",
         "valarray": "cpp",
         "initializer_list": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "span": "cpp"
     }
 }
